@@ -1,0 +1,56 @@
+[
+  {
+    "file": "flower.usdz",
+    "source": "https://raw.githubusercontent.com/minjeongeee/orbit_iphone/main/usdz-viewer/Orbitflower_FINAL.usdz",
+    "bytes": 21005506,
+    "sha256": "b6ff04d76785ec0e76a6bb4cecc54d18c8c3abf75ca94839b2483060c320dd3e"
+  },
+  {
+    "file": "stairs.glb",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Stair_Wall/main/OrbitStair_FINAL.glb",
+    "bytes": 8496188,
+    "sha256": "405962c1a340a39ffc412ff4be517813fd64e9ca3b396a621a982462d4928e63"
+  },
+  {
+    "file": "stairs.usdz",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Stair_Wall/main/OrbitStair_FINAL.usdz",
+    "bytes": 8440608,
+    "sha256": "c0f169bfd8776cad0bfa72c2d4806d432b1ef7718d678c22dee2ecbc3ff54f36"
+  },
+  {
+    "file": "card.glb",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Card_AR/main/ARCARD_GLB2.glb",
+    "bytes": 9432564,
+    "sha256": "5bfa2776f51818543550d485a671c11d8e08faf26253bfb9785094d2936fe22c"
+  },
+  {
+    "file": "card.usdz",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Card_AR/main/OrbitCardGlue_0814.usdz",
+    "bytes": 14620719,
+    "sha256": "30ad2449db77868ea0106ab4afbf0d130a18b0b4734c75a4b6d7af91788e6417"
+  },
+  {
+    "file": "women.glb",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Women/main/GirlsTalk.glb",
+    "bytes": 10597076,
+    "sha256": "ecc8160c801c87e0e9bfabb859846c015a3980ce4a42e768ac6199ba5bb5cfb7"
+  },
+  {
+    "file": "women.usdz",
+    "source": "https://raw.githubusercontent.com/minjeongeee/Women/main/GirlsTalk.usdz",
+    "bytes": 9574167,
+    "sha256": "92ac31bb618b0bae15d3fab5405021562ab57cb89309eeed5bf5bd386db5e16e"
+  },
+  {
+    "file": "brothers.glb",
+    "source": "https://raw.githubusercontent.com/minjeongeee/brothers/main/6Bro_0814.glb",
+    "bytes": 4528736,
+    "sha256": "17beb8e7edcab71721776cd50182ccf94b1b42aaaf071844377bf36eb54b8ecc"
+  },
+  {
+    "file": "brothers.usdz",
+    "source": "https://raw.githubusercontent.com/minjeongeee/brothers/main/6Bro_0812_1.usdz",
+    "bytes": 4527374,
+    "sha256": "a7ea85a71b19e7c3af105845ed4bbbd47bd2044bda108a38e9265d13eb3dda51"
+  }
+]
