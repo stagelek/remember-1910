@@ -2,55 +2,89 @@
   {
     "file": "flower.usdz",
     "source": "https://raw.githubusercontent.com/minjeongeee/orbit_iphone/main/usdz-viewer/Orbitflower_FINAL.usdz",
-    "bytes": 21005506,
-    "sha256": "b6ff04d76785ec0e76a6bb4cecc54d18c8c3abf75ca94839b2483060c320dd3e"
+    "original_bytes": 21005506,
+    "original_sha256": "b6ff04d76785ec0e76a6bb4cecc54d18c8c3abf75ca94839b2483060c320dd3e",
+    "deployed_bytes": 21006253,
+    "deployed_sha256": "f5c823c8433134f7145bff120084df5eeec81a849aa875123ebb6515d09c915b",
+    "repair_version": "20261105r2"
   },
   {
     "file": "stairs.glb",
     "source": "https://raw.githubusercontent.com/minjeongeee/Stair_Wall/main/OrbitStair_FINAL.glb",
-    "bytes": 8496188,
-    "sha256": "405962c1a340a39ffc412ff4be517813fd64e9ca3b396a621a982462d4928e63"
+    "original_bytes": 8496188,
+    "original_sha256": "405962c1a340a39ffc412ff4be517813fd64e9ca3b396a621a982462d4928e63",
+    "deployed_bytes": 8543384,
+    "deployed_sha256": "18055b385e72c15c20750fa3a78d7edf033b3ead24326c80289a07d7645576bf",
+    "repair_version": "20261105r2"
   },
   {
     "file": "stairs.usdz",
     "source": "https://raw.githubusercontent.com/minjeongeee/Stair_Wall/main/OrbitStair_FINAL.usdz",
-    "bytes": 8440608,
-    "sha256": "c0f169bfd8776cad0bfa72c2d4806d432b1ef7718d678c22dee2ecbc3ff54f36"
+    "original_bytes": 8440608,
+    "original_sha256": "c0f169bfd8776cad0bfa72c2d4806d432b1ef7718d678c22dee2ecbc3ff54f36",
+    "deployed_bytes": 8441721,
+    "deployed_sha256": "d33018550b2d327d0a50683f60e4e63e71a73731a4b9fb867cac5a6e1efd9b70",
+    "repair_version": "20261105r2"
   },
   {
     "file": "card.glb",
     "source": "https://raw.githubusercontent.com/minjeongeee/Card_AR/main/ARCARD_GLB2.glb",
-    "bytes": 9432564,
-    "sha256": "5bfa2776f51818543550d485a671c11d8e08faf26253bfb9785094d2936fe22c"
+    "original_bytes": 9432564,
+    "original_sha256": "5bfa2776f51818543550d485a671c11d8e08faf26253bfb9785094d2936fe22c",
+    "deployed_bytes": 9674372,
+    "deployed_sha256": "cf28ca1fdc63aaa77380076053761a9fbd99a242362cfeb3423018c25ca8ffd4",
+    "repair_version": "20261105r2"
   },
   {
     "file": "card.usdz",
     "source": "https://raw.githubusercontent.com/minjeongeee/Card_AR/main/OrbitCardGlue_0814.usdz",
-    "bytes": 14620719,
-    "sha256": "30ad2449db77868ea0106ab4afbf0d130a18b0b4734c75a4b6d7af91788e6417"
+    "original_bytes": 14620719,
+    "original_sha256": "30ad2449db77868ea0106ab4afbf0d130a18b0b4734c75a4b6d7af91788e6417",
+    "deployed_bytes": 14624414,
+    "deployed_sha256": "c638856209c0a730986bdcd333f5a64bd02b537a1d4c657a5ed073cf8b3047b9",
+    "repair_version": "20261105r2"
   },
   {
     "file": "women.glb",
     "source": "https://raw.githubusercontent.com/minjeongeee/Women/main/GirlsTalk.glb",
-    "bytes": 10597076,
-    "sha256": "ecc8160c801c87e0e9bfabb859846c015a3980ce4a42e768ac6199ba5bb5cfb7"
+    "original_bytes": 10597076,
+    "original_sha256": "ecc8160c801c87e0e9bfabb859846c015a3980ce4a42e768ac6199ba5bb5cfb7",
+    "deployed_bytes": 9641996,
+    "deployed_sha256": "f992eebc5d15b37277b3ed1e8266f0c64dbe920a3a390ebb1b5b3d7895910394",
+    "repair_version": "20261105r2"
   },
   {
     "file": "women.usdz",
     "source": "https://raw.githubusercontent.com/minjeongeee/Women/main/GirlsTalk.usdz",
-    "bytes": 9574167,
-    "sha256": "92ac31bb618b0bae15d3fab5405021562ab57cb89309eeed5bf5bd386db5e16e"
+    "original_bytes": 9574167,
+    "original_sha256": "92ac31bb618b0bae15d3fab5405021562ab57cb89309eeed5bf5bd386db5e16e",
+    "deployed_bytes": 9574398,
+    "deployed_sha256": "793ff2c5e87feb31b10b171ff8411ca6b5846bb701b59f9fdb312298925fc78e",
+    "repair_version": "20261105r2"
   },
   {
     "file": "brothers.glb",
     "source": "https://raw.githubusercontent.com/minjeongeee/brothers/main/6Bro_0814.glb",
-    "bytes": 4528736,
-    "sha256": "17beb8e7edcab71721776cd50182ccf94b1b42aaaf071844377bf36eb54b8ecc"
+    "original_bytes": 4528736,
+    "original_sha256": "17beb8e7edcab71721776cd50182ccf94b1b42aaaf071844377bf36eb54b8ecc",
+    "deployed_bytes": 6494944,
+    "deployed_sha256": "82717c9d00bfea3d9c88286e057178d1452728f451ea1d8e32fe4e5c6194d743",
+    "repair_version": "20261105r2"
   },
   {
     "file": "brothers.usdz",
     "source": "https://raw.githubusercontent.com/minjeongeee/brothers/main/6Bro_0812_1.usdz",
-    "bytes": 4527374,
-    "sha256": "a7ea85a71b19e7c3af105845ed4bbbd47bd2044bda108a38e9265d13eb3dda51"
+    "original_bytes": 4527374,
+    "original_sha256": "a7ea85a71b19e7c3af105845ed4bbbd47bd2044bda108a38e9265d13eb3dda51",
+    "deployed_bytes": 4527916,
+    "deployed_sha256": "299a1001ebf171c436791ae288dd646ec1960a1b3ec761991b22985cfcea620a",
+    "repair_version": "20261105r2"
+  },
+  {
+    "file": "flower.glb",
+    "source": "Optimized copy of minjeongeee/orbit_iphone/usdz-viewer/Orbitflower_FINAL.glb",
+    "repair_version": "20261105r2",
+    "deployed_bytes": 6973400,
+    "deployed_sha256": "333a68a962d899586124cb6ea7bd796640986054b1a0ca1234006eabb09adc5b"
   }
 ]
