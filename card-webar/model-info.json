@@ -1,0 +1,15 @@
+{
+  "width": 2.707090319484685,
+  "height": 2.5722379721701145,
+  "depth": 1.7020690723512644e-06,
+  "targetWidthM": 0.18,
+  "previewWidthM": 0.3,
+  "wallWidthM": 2.693888031827925,
+  "source": "../assets/card.glb",
+  "normalization": "Rigid rotation and centering only; no topology/texture edits",
+  "originalFrontNormal": [
+    -0.7660444576809406,
+    0,
+    0.6427875923322678
+  ]
+}

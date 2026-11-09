@@ -1,0 +1,4 @@
+MindAR 1.2.5 (MIT): https://github.com/hiukim/mind-ar-js
+Three.js 0.160.0 (MIT): https://github.com/mrdoob/three.js
+MindAR distributions include TensorFlow.js and other dependencies with embedded license notices retained.
+Local integration patch: keep the bound resize handler to remove it when the camera experience stops. No recognition algorithm changes.
