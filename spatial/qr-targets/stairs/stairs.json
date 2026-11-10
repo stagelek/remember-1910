@@ -1,0 +1,26 @@
+{
+  "imagePath": "./qr-targets/stairs/stairs_luminance.png",
+  "metadata": {
+    "content": "stairs",
+    "qrUrl": "https://stagelek.github.io/remember-1910/stairs/"
+  },
+  "name": "stairs",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 1000,
+    "height": 1000,
+    "isRotated": false,
+    "originalWidth": 1000,
+    "originalHeight": 1000
+  },
+  "resources": {
+    "originalImage": "stairs_original.png",
+    "croppedImage": "stairs_cropped.png",
+    "thumbnailImage": "stairs_thumbnail.png",
+    "luminanceImage": "stairs_luminance.png"
+  },
+  "created": 1794279765316,
+  "updated": 1794279765316
+}

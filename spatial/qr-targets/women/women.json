@@ -1,0 +1,26 @@
+{
+  "imagePath": "./qr-targets/women/women_luminance.png",
+  "metadata": {
+    "content": "women",
+    "qrUrl": "https://stagelek.github.io/remember-1910/women/"
+  },
+  "name": "women",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 1000,
+    "height": 1000,
+    "isRotated": false,
+    "originalWidth": 1000,
+    "originalHeight": 1000
+  },
+  "resources": {
+    "originalImage": "women_original.png",
+    "croppedImage": "women_cropped.png",
+    "thumbnailImage": "women_thumbnail.png",
+    "luminanceImage": "women_luminance.png"
+  },
+  "created": 1794279765388,
+  "updated": 1794279765388
+}

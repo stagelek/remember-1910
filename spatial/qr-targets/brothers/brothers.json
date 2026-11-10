@@ -1,0 +1,26 @@
+{
+  "imagePath": "./qr-targets/brothers/brothers_luminance.png",
+  "metadata": {
+    "content": "brothers",
+    "qrUrl": "https://stagelek.github.io/remember-1910/brothers/"
+  },
+  "name": "brothers",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 1000,
+    "height": 1000,
+    "isRotated": false,
+    "originalWidth": 1000,
+    "originalHeight": 1000
+  },
+  "resources": {
+    "originalImage": "brothers_original.png",
+    "croppedImage": "brothers_cropped.png",
+    "thumbnailImage": "brothers_thumbnail.png",
+    "luminanceImage": "brothers_luminance.png"
+  },
+  "created": 1794279765421,
+  "updated": 1794279765421
+}

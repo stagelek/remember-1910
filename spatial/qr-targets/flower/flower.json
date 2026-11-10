@@ -1,0 +1,26 @@
+{
+  "imagePath": "./qr-targets/flower/flower_luminance.png",
+  "metadata": {
+    "content": "flower",
+    "qrUrl": "https://stagelek.github.io/remember-1910/flower/"
+  },
+  "name": "flower",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 1000,
+    "height": 1000,
+    "isRotated": false,
+    "originalWidth": 1000,
+    "originalHeight": 1000
+  },
+  "resources": {
+    "originalImage": "flower_original.png",
+    "croppedImage": "flower_cropped.png",
+    "thumbnailImage": "flower_thumbnail.png",
+    "luminanceImage": "flower_luminance.png"
+  },
+  "created": 1794279765277,
+  "updated": 1794279765277
+}

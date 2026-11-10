@@ -1,0 +1,26 @@
+{
+  "imagePath": "./qr-targets/card/card_luminance.png",
+  "metadata": {
+    "content": "card",
+    "qrUrl": "https://stagelek.github.io/remember-1910/card/"
+  },
+  "name": "card",
+  "type": "PLANAR",
+  "properties": {
+    "left": 0,
+    "top": 0,
+    "width": 1000,
+    "height": 1000,
+    "isRotated": false,
+    "originalWidth": 1000,
+    "originalHeight": 1000
+  },
+  "resources": {
+    "originalImage": "card_original.png",
+    "croppedImage": "card_cropped.png",
+    "thumbnailImage": "card_thumbnail.png",
+    "luminanceImage": "card_luminance.png"
+  },
+  "created": 1794279765354,
+  "updated": 1794279765354
+}

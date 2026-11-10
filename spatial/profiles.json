@@ -1,0 +1,61 @@
+{
+  "schema": 2,
+  "revision": "20261110-initial-qr",
+  "profiles": {
+    "flower": {
+      "version": 2,
+      "id": "flower",
+      "width": 7.068851310450555,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "yaw": 0,
+      "qrWidthM": 0.058,
+      "calibrated": false
+    },
+    "stairs": {
+      "version": 2,
+      "id": "stairs",
+      "width": 3.3067663723404097,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "yaw": 0,
+      "qrWidthM": 0.058,
+      "calibrated": false
+    },
+    "women": {
+      "version": 2,
+      "id": "women",
+      "width": 1.0610745204532241,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "yaw": 0,
+      "qrWidthM": 0.058,
+      "calibrated": false
+    },
+    "brothers": {
+      "version": 2,
+      "id": "brothers",
+      "width": 12.63987591193061,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "yaw": 0,
+      "qrWidthM": 0.058,
+      "calibrated": false
+    },
+    "card": {
+      "version": 2,
+      "id": "card",
+      "width": 2.693888031827925,
+      "x": 0,
+      "y": 0,
+      "z": 0,
+      "yaw": 0,
+      "qrWidthM": 0.058,
+      "calibrated": false
+    }
+  }
+}
